@@ -57,7 +57,7 @@ publishing {
     publications{
         create<MavenPublication>("release") {
             groupId = "com.github.a11y-nvisions"
-            artifactId = ""
+            artifactId = "nv-simple-a11y-node-info"
             version = "1.0.0"
         }
 
